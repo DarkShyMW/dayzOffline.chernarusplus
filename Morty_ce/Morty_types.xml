@@ -11,8 +11,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
 		<usage name="Military" />
-		<value name="Tier3" />
-		<value name="Tier4" />
+		<value name="Tier2" />
 	</type>
 	<type name="TTC_MAS36">
 		<nominal>15</nominal>
@@ -76,7 +75,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
 		<usage name="Military" />
-		<value name="Tier4" />
+		<value name="Tier3" />
 	</type>
 	<type name="TTCSR25_Desert">
 		<nominal>6</nominal>
