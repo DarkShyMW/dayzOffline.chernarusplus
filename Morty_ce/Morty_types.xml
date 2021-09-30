@@ -291,8 +291,7 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="ContaminatedArea"/>
     </type>
     <type name="TTC_Universal_Suppressor_CAMO">
         <nominal>5</nominal>
@@ -305,8 +304,7 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="ContaminatedArea"/>
     </type>
     <type name="TTC_Buttstock">
         <nominal>5</nominal>
@@ -492,8 +490,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
 		<category name="weapons" />
-		<usage name="Military" />
-		<value name="Tier4" />
+		<usage name="ContaminatedArea" />
 	</type>
     <type name="TTC_338mag_10rnd">
         <nominal>5</nominal>
@@ -505,9 +502,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="ContaminatedArea"/>
     </type>
     <type name="TTC_AmmoBox_338mm_10Rnd">
         <nominal>40</nominal>
@@ -857,9 +852,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-		<value name="Tier3" />
-		<value name="Tier4" />
-		<usage name="Military" />
+		<usage name="ContaminatedArea" />
 	</type>
     <type name="TTC_50Beo_mag">
         <nominal>5</nominal>
@@ -871,9 +864,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="ContaminatedArea"/>
     </type>
     <type name="TTC_AmmoBox_50Beo_20rnd">
         <nominal>25</nominal>
@@ -885,9 +876,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="ContaminatedArea"/>
     </type>
     <type name="TTC_Ammo_50Beo">
         <nominal>25</nominal>
@@ -900,9 +889,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="ContaminatedArea"/>
     </type>
 	<!-- New universal suppressor colors -->
     <type name="TTC_Universal_Suppressor_Tan">
@@ -916,9 +903,7 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="ContaminatedArea"/>
     </type>
     <type name="TTC_Universal_Suppressor_Snow">
         <nominal>5</nominal>
@@ -931,9 +916,7 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="ContaminatedArea"/>
     </type>
 	<!-- Update 1.10.1-->
     <type name="TTC_ModDMR_556">
@@ -1017,8 +1000,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
 		<category name="weapons" />
-		<value name="Tier4" />
-		<usage name="Military" />
+		<usage name="ContaminatedArea" />
 	</type>
 	<type name="TTC_M82_Tan">
 		<nominal>2</nominal>
@@ -1030,8 +1012,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
 		<category name="weapons" />
-		<value name="Tier4" />
-		<usage name="Military" />
+		<usage name="ContaminatedArea" />
 	</type>
     <type name="TTC_M82_5rnd_Mag">
         <nominal>2</nominal>
@@ -1043,8 +1024,7 @@
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="ContaminatedArea"/>
     </type>
     <type name="TTC_DMR_556Stanag_30rnd_Digitan">
         <nominal>2</nominal>
@@ -1098,8 +1078,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="ContaminatedArea"/>
     </type>
     <type name="TTC_DMR_556Stanag_100rnd_camo">
         <nominal>2</nominal>
@@ -1111,8 +1090,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="ContaminatedArea"/>
     </type>
     <type name="TTC_DMR_556Stanag_100rnd_Digitan">
         <nominal>2</nominal>
@@ -1124,8 +1102,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="ContaminatedArea"/>
     </type>
     <type name="TTC_DMR_556Stanag_100rnd_Tan">
         <nominal>2</nominal>
@@ -1137,8 +1114,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="ContaminatedArea"/>
     </type>
     <type name="TTC_DMR_556Stanag_100rnd_UPC">
         <nominal>2</nominal>
@@ -1150,8 +1126,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="ContaminatedArea"/>
     </type>
     <type name="TTC_DMR_556Pmag_30rnd">
         <nominal>2</nominal>
@@ -1613,8 +1588,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="ContaminatedArea"/>
     </type>
     <type name="TTC_Ammo_50BMG">
         <nominal>10</nominal>
@@ -1627,8 +1601,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="ContaminatedArea"/>
     </type>
     <type name="TTC_Buttstock_Camo">
         <nominal>2</nominal>
@@ -1826,6 +1799,7 @@
 		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
 		<category name="weapons" />
 		<usage name="Military" />
+		<value name="Tier3" />
 		<value name="Tier4" />
 	</type>
     <type name="TTC_M14_Mag_20rnd">
@@ -1879,8 +1853,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
 		<category name="weapons" />
-		<usage name="Military" />
-		<value name="Tier4" />
+		<usage name="ContaminatedArea" />
 	</type>
     <type name="TTC_XM2010_10rnd">
         <nominal>5</nominal>
@@ -1892,9 +1865,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="ContaminatedArea"/>
     </type>
     <type name="TTC_AmmoBox_303_20Rnd">
         <nominal>40</nominal>
@@ -1988,8 +1959,8 @@
         <category name="weapons"/>
         <usage name="Town"/>
         <usage name="Village"/>
-	<usage name="Hunting"/>
-	<value name="Tier1"/>
+		<usage name="Hunting"/>
+		<value name="Tier1"/>
         <value name="Tier2"/>
     </type>
 	<!-- Update 1.11.1 -->
@@ -2046,7 +2017,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="Military"/>
-	<usage name="Tier4"/>
+		<usage name="Tier4"/>
     </type>
 	<type name="TTC_G3">
 		<nominal>4</nominal>
