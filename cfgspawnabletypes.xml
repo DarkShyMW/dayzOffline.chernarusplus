@@ -2338,7 +2338,7 @@
 -->
 	<!--  END OF WEAPONS  -->
 	<type name="PersonalRadio">
-		<attachments chance="0.30">
+		<attachments chance="1.00">
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
 	</type>
@@ -3842,27 +3842,27 @@
 -->
 	<type name="MassKivaari">
         <attachments chance="0.20">
-            <item name="HuntingOptic" chance="0.50" />
+            <item name="HuntingOptic" chance="0.10" />
             <item name="ACOGOptic" chance="0.50" />
         </attachments>
     </type>
 	<type name="Massm300">
         <attachments chance="0.20">
-            <item name="HuntingOptic" chance="0.50" />
+            <item name="HuntingOptic" chance="0.10" />
             <item name="ACOGOptic" chance="0.50" />
         </attachments>
     </type>
 	<type name="Massarmsan">
         <attachments chance="0.20">
-            <item name="HuntingOptic" chance="1.0" />
+            <item name="HuntingOptic" chance="0.33" />
         </attachments>
         <attachments chance="0.30">
-            <item name="shotgunSuppressor" chance="1.0" />
+            <item name="shotgunSuppressor" chance="0.33" />
         </attachments>
     </type>
 	<type name="MassB52">
         <attachments chance="0.20">
-            <item name="ACOGOptic" chance="1.0" />
+            <item name="ACOGOptic" chance="0.33" />
         </attachments>
     </type>
 	<type name="MassScout556">
