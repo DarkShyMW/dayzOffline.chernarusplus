@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 	<type name="TTC_KAC">
-		<nominal>6</nominal>
+		<nominal>8</nominal>
 		<lifetime>10800</lifetime>
 		<restock>1800</restock>
 		<min>4</min>
@@ -337,7 +337,7 @@
         <usage name="Village"/>
 	<usage name="Hunting"/>
 	<value name="Tier1"/>
-        <value name="Tier2"/>		
+        <value name="Tier2"/>
     </type>
 	<type name="TTC_AmmoBox_8mm_20Rnd">
         <nominal>30</nominal>
@@ -353,7 +353,7 @@
         <usage name="Village"/>
 	<usage name="Hunting"/>
 	<value name="Tier1"/>
-        <value name="Tier2"/>		
+        <value name="Tier2"/>
     </type>
     <type name="TTC_Buttstock2">
         <nominal>5</nominal>
@@ -1910,7 +1910,7 @@
         <usage name="Village"/>
 		<usage name="Hunting"/>
 		<value name="Tier1"/>
-        <value name="Tier2"/>	
+        <value name="Tier2"/>
     </type>
     <type name="TTC_Ammo_303">
         <nominal>30</nominal>
@@ -1942,7 +1942,7 @@
         <usage name="Village"/>
 		<usage name="Hunting"/>
 		<value name="Tier1"/>
-        <value name="Tier2"/>	
+        <value name="Tier2"/>
     </type>
     <type name="TTC_Ammo_3006">
         <nominal>30</nominal>
@@ -1974,7 +1974,7 @@
         <usage name="Village"/>
 		<usage name="Hunting"/>
 		<value name="Tier1"/>
-        <value name="Tier2"/>	
+        <value name="Tier2"/>
     </type>
     <type name="TTC_Ammo_4570">
         <nominal>30</nominal>
@@ -2996,7 +2996,7 @@
         <category name="weapons"/>
         <usage name="Town"/>
         <usage name="Village"/>
-	<usage name="Hunting"/>		
+	<usage name="Hunting"/>
     </type>
     <type name="TTC_Glock17">
         <nominal>15</nominal>
@@ -3305,7 +3305,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier1"/>
-        <value name="Tier2"/>	
+        <value name="Tier2"/>
     </type>
 	<type name="TTC_AmmoBox_4630_20Rnd">
         <nominal>30</nominal>
@@ -3319,7 +3319,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier1"/>
-        <value name="Tier2"/>	
+        <value name="Tier2"/>
     </type>
     <type name="TTC_Pistol_Light">
         <nominal>5</nominal>
@@ -3516,7 +3516,7 @@
         <usage name="Village"/>
 		<usage name="Hunting"/>
 		<value name="Tier1"/>
-        <value name="Tier2"/>		
+        <value name="Tier2"/>
     </type>
 	<type name="TTC_AmmoBox_792x33_20Rnd">
         <nominal>30</nominal>
@@ -3532,7 +3532,7 @@
         <usage name="Village"/>
 		<usage name="Hunting"/>
 		<value name="Tier1"/>
-        <value name="Tier2"/>		
+        <value name="Tier2"/>
     </type>
 	<type name="TTC_BAR">
 		<nominal>5</nominal>
@@ -3770,6 +3770,6 @@
         <category name="weapons"/>
         <usage name="Town"/>
         <usage name="Village"/>
-	<usage name="Hunting"/>		
+	<usage name="Hunting"/>
     </type>
 </types>
