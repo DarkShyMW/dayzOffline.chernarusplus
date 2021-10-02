@@ -3743,4 +3743,2632 @@
         <usage name="Village"/>
 	<usage name="Hunting"/>
     </type>
+    <!-- AMMO -->
+    	<type name="Ammo_new_12gaBuckshot5">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_12gaExpressBuckshot6">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_12gaBuckshot7">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_12gaMagnumBuckshot8">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_12gaRip">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_12gaAP20">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_12ga2Sabot">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_12gaFtxCustomLIte">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_12gaGrizzly40">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_12gaPoleva3">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_12gaPoleva6">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_12ga50Bmg">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_12gaLead">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_12gaFlchetteS">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_12gaSuperFormance">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_12gaCopperSabotPremier">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_12gaImbalanced">
+		<nominal>0</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="Ammo_new_12gaImbalancedSlug">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="Ammo_new_22Subsonic">
+		<nominal>10</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>5</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_22StandardVelocity">
+		<nominal>10</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>5</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_22HighVelocity">
+		<nominal>6</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_22HyperVelocity">
+		<nominal>6</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_22Imbalanced">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="Ammo_new_308WinM61">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_308WinM62">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_308WinM80">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_308WinM993">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_308WinUltraNosler">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_308WinFMJ">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_308WinSP">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_308WinImbalanced">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="Ammo_new_357QuikShokJhp">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_357HollowPoint">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_357GoldDotJhp">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_357ClassicJhp">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_357GoldenSaberJhp">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_357Semiwadcutter">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_357SilvertipJhp">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_357Imbalanced">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="Ammo_new_380BondedJhp">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_380Jhp">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_380HydraShokJhp">
+		<nominal>10</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>5</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_380SilvertipJhp">
+		<nominal>10</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>5</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_380Xtp">
+		<nominal>10</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>5</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_380Fmj">
+		<nominal>10</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>5</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_380Imbalanced">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="Ammo_new_45AcpAP">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_45AcpFmj">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_45AcpHydrShock">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_45AcpLasermatchFmj">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_45AcpRip">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_45AcpImbalanced">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="Ammo_new_545x397H39">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_545x39Fmj">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_545x39Hp">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_545x39Sp">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_545x39Bp">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_545x39Bs">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_545x39Bt">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_545x39Pp">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_545x39Prs">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_545x39Ps">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_545x39T">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_545x39Us">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_545x39Imbalanced">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="Ammo_new_556x45M855">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_556x45M855A1">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_556x45M856">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_556x45M856A1">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_556x45M995">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_556x45Mk255">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_556x4555Fmj">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_556x4555Hp">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_556x45Warmage">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_556x45Imbalanced">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="Ammo_new_762x39Hp">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_762x39Bp">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_762x39Ps">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_762x39T45M">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_762x39Us">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_762x39Imbalanced">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="Ammo_new_762x547Bt1">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_762x547H37">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_762x54Lps">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_762x54Snb">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_762x547H1">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_762x54T46M">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_762x54Imbalanced">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="Ammo_new_9x19Pst">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_9x19Pso">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_9x19LugerCci">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_9x19Rip">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_9x19Ap">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_9x197H31">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_9x19QuakeMaker">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_9x19Imbalanced">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="Ammo_new_9x39Sp5">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_9x39Sp6">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_9x397H9">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_9x397H12">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Ammo_new_9x39Imbalanced">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>20</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="AmmoBox_new_12gaBuckshot5">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_12gaExpressBuckshot6">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_12gaBuckshot7">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_12gaMagnumBuckshot8">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_12gaRip">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_12gaAP20">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_12ga2Sabot">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_12gaFtxCustomLIte">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_12gaGrizzly40">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_12gaPoleva3">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_12gaPoleva6">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_12ga50Bmg">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_12gaLead">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_12gaFlchetteS">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_12gaSuperFormance">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_12gaCopperSabotPremier">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_12gaImbalanced">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="AmmoBox_new_12gaImbalancedSlug">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="AmmoBox_new_22Subsonic">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_22StandardVelocity">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="AmmoBox_new_22HighVelocity">
+		<nominal>4</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_22HyperVelocity">
+		<nominal>4</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_22Imbalanced">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="AmmoBox_new_308WinM61">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_308WinM62">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_308WinM80">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_308WinM993">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_308WinUltraNosler">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_308WinFMJ">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_308WinSP">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_308WinImbalanced">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="AmmoBox_new_357QuikShokJhp">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_357HollowPoint">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_357GoldDotJhp">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_357ClassicJhp">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_357GoldenSaberJhp">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_357Semiwadcutter">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_357SilvertipJhp">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_357Imbalanced">
+		<nominal>0</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_380BondedJhp">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_380Jhp">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_380HydraShokJhp">
+		<nominal>4</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_380SilvertipJhp">
+		<nominal>4</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_380Xtp">
+		<nominal>4</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_380Fmj">
+		<nominal>4</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_380Imbalanced">
+		<nominal>0</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_45AcpAP">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_45AcpFmj">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_45AcpHydrShock">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_45AcpLasermatchFmj">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_45AcpRip">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_45AcpImbalanced">
+		<nominal>0</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_545x397H39">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_545x39Fmj">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_545x39Hp">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_545x39Sp">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_545x39Bp">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_545x39Bs">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_545x39Bt">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_545x39Pp">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_545x39Prs">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_545x39Ps">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_545x39T">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_545x39Us">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_545x39Imbalanced">
+		<nominal>0</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_556x45M855">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_556x45M855A1">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_556x45M856">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_556x45M856A1">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_556x45M995">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_556x45Mk255">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_556x4555Fmj">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_556x4555Hp">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_556x45Warmage">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_556x45Imbalanced">
+		<nominal>0</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_762x39Hp">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_762x39Bp">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_762x39Ps">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_762x39T45M">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_762x39Us">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_762x39Imbalanced">
+		<nominal>0</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_762x547Bt1">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_762x547H37">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_762x54Lps">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_762x54Snb">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_762x547H1">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_762x54T46M">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_762x54Imbalanced">
+		<nominal>0</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_9x19Pst">
+		<nominal>0</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_9x19Pso">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_9x19LugerCci">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_9x19Rip">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_9x19Ap">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_9x197H31">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_9x19QuakeMaker">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_9x19Imbalanced">
+		<nominal>0</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_9x39Sp5">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_9x39Sp6">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_9x397H9">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_9x397H12">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="AmmoBox_new_9x39Imbalanced">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<tag name="shelves"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+    <!-- AMMO -->
 </types>
