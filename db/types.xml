@@ -11472,7 +11472,8 @@
         <category name="clothes"/>
         <tag name="floor"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier4" />
     </type>
     <type name="NBCBootsYellow">
         <nominal>6</nominal>
@@ -11499,7 +11500,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier4" />
     </type>
     <type name="NBCGlovesYellow">
         <nominal>6</nominal>
@@ -11526,7 +11528,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <value name="Tier3"/>
+        <value name="Tier4" />
     </type>
     <type name="NBCHoodYellow">
         <nominal>6</nominal>
@@ -20715,9 +20718,9 @@
         <usage name="Military"/>
 </type>
     <type name="IMP_M79Mask_Black">
-        <nominal>10</nominal>
-        <lifetime>7200</lifetime>
-        <restock>1800</restock>
+        <nominal>0</nominal>
+        <lifetime>1</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -20727,9 +20730,9 @@
         <usage name="Military"/>
 </type>
     <type name="IMP_M79Mask_Blue">
-        <nominal>10</nominal>
-        <lifetime>7200</lifetime>
-        <restock>1800</restock>
+        <nominal>0</nominal>
+        <lifetime>1</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -20739,9 +20742,9 @@
         <usage name="Military"/>
 </type>
     <type name="IMP_M79Mask_Green">
-        <nominal>10</nominal>
-        <lifetime>7200</lifetime>
-        <restock>1800</restock>
+        <nominal>0</nominal>
+        <lifetime>1</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -20751,9 +20754,9 @@
         <usage name="Military"/>
 </type>
     <type name="IMP_M79Mask_Yellow">
-        <nominal>10</nominal>
-        <lifetime>7200</lifetime>
-        <restock>1800</restock>
+        <nominal>0</nominal>
+        <lifetime>1</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -20763,9 +20766,9 @@
         <usage name="Military"/>
 </type>
     <type name="IMP_M79Filter">
-        <nominal>10</nominal>
-        <lifetime>7200</lifetime>
-        <restock>1800</restock>
+        <nominal>0</nominal>
+        <lifetime>1</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
