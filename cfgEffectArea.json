@@ -168,7 +168,7 @@
 				"Pos": [ 1569.39, 0, 14145 ],
 				"Radius": 500,
 				"PosHeight": 22,
-				"NegHeight": 4,
+				"NegHeight": 3,
 				"InnerRingCount": 1,
 				"InnerPartDist": 50,
 				"OuterRingToggle": 1, 
@@ -191,7 +191,7 @@
 				"Pos": [ 1687.94, 0, 14220 ],
 				"Radius": 500,
 				"PosHeight": 22,
-				"NegHeight": 4,
+				"NegHeight": 3,
 				"InnerRingCount": 1,
 				"InnerPartDist": 50,
 				"OuterRingToggle": 1, 
@@ -214,6 +214,29 @@
 				"Pos": [ 1732.43, 0, 13893 ],
 				"Radius": 500,
 				"PosHeight": 22,
+				"NegHeight": 2,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 60, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "TOXIC-Base", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 618.39, 0, 13626 ],
+				"Radius": 1500,
+				"PosHeight": 22,
 				"NegHeight": 4,
 				"InnerRingCount": 1,
 				"InnerPartDist": 50,
@@ -229,7 +252,7 @@
 				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
 				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}
-		}
+		},
     ],
 
 	"SafePositions":[
